@@ -1,4 +1,4 @@
-# Analytical chemistry exercise
+# Analytical chemistry exercises
 
 analytical chemistry exercises for books:
 
