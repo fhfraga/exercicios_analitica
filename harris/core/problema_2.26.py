@@ -28,6 +28,7 @@ def plates_theorical(A, B, C, u):
 if __name__ == '__main__':
     H = plates_theorical(1.65, 25.8, 0.0236, np.arange(4, 102, 2))
     plt.figure(1, figsize=(6, 4))
+    plt.style.use('seaborn-whitegrid')
     plt. plot(H, np.arange(4, 102, 2))
     plt.xlabel('Height of theoretical plates(mm)')
     plt.ylabel('Carrier gas speed(mL/min)')
