@@ -3,7 +3,8 @@ import matplotlib.pyplot as plt
 
 
 def plates_theorical(A, B, C, u):
-    """Calculates the height of the theoretical plates present in a chromatographic column
+    """Calculates the height of the theoretical plates present in a
+    chromatographic column
 
     Parameters
     ----------
@@ -36,6 +37,6 @@ if __name__ == '__main__':
     # save plot to file
     plt.savefig("Van Deemter's equation.pdf")
 
- # display plot on screen
+    # display plot on screen
     plt.show()
     print(H)
