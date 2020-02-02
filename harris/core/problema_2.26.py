@@ -10,19 +10,21 @@ def plates_theorical(A, B, C, u):
     ----------
     A : float
         Eddy-diffusion parameter, related to channeling through a non-ideal
-        packing. Dimension L
+        packing. Dimension L.
     B :float
-         diffusion coefficient of the eluting particles in the longitudinal
-         direction, resulting in dispersion. Dimension L^2 / T
+         Diffusion coefficient of the eluting particles in the longitudinal
+         direction, resulting in dispersion. Dimension L^2 / T.
     C : float
-        solute diffusion in the stationary phase
-    u : float
-        carrier gas speed
+        Resistance to mass transfer coefficient of the analyte between mobile
+        and stationary phase. Dimension T.
+    u : array
+        Linear velocity. Dimension L / T.
 
     Returns
     -------
     float
-        equivalent height of a theoretical plate.
+        equivalent height of a theoretical plate, a measure of the resolving
+        power of the column. Dimension L.
     """
     H = A + (B / u) + (C * u)
     return(H)
