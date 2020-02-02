@@ -41,7 +41,7 @@ if __name__ == '__main__':
     plt.tight_layout()  # avoids cutting labels depending on style
 
     # save plot to file
-    plt.savefig("Van Deemter's equation.pdf")
+    plt.savefig("van_deemter_equation.png")
 
     # display plot on screen
     plt.show()
