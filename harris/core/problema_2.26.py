@@ -9,9 +9,11 @@ def plates_theorical(A, B, C, u):
     Parameters
     ----------
     A : float
-        peak widening by preferred paths
+        Eddy-diffusion parameter, related to channeling through a non-ideal
+        packing. Dimension L
     B :float
-        solute diffusion in the mobile phase
+         diffusion coefficient of the eluting particles in the longitudinal
+         direction, resulting in dispersion. Dimension L^2 / T
     C : float
         solute diffusion in the stationary phase
     u : float
