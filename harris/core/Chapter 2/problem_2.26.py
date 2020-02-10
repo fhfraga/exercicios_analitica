@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 def plates_theorical(A, B, C, u):
     """Calculates the height of the theoretical plates present in a
     chromatographic column
+
     Parameters
     ----------
     A : float
@@ -18,6 +19,7 @@ def plates_theorical(A, B, C, u):
         and stationary phase. Dimension T.
     u : array
         Linear velocity. Dimension L / T.
+
     Returns
     -------
     float
