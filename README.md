@@ -10,3 +10,16 @@ Fundamentals of analytical chemistry - Douglas A. Skoog - Eighth edition, that c
 The purpose of this repository is to develop the applications of specific Excel exercises, working them in python, demonstrating how easy it is to do with this language and how it can help in the study and learning of science.
 
 There are some code and comments in portuguese since I am from Brazil.
+
+
+# Quantitative Chemical Analysis exercises and problems
+
+
+Chapter 2: 
+Problem 2.26:[python file](https://github.com/fhfraga/exercicios_analitica/blob/master/harris/core/problem_2.26.py) [plot](https://github.com/fhfraga/exercicios_analitica/blob/master/harris/core/van_deemter_equation.png)
+
+
+# Fundamentals of analytical Chemistry exercise and problems
+
+
+Coming soon
