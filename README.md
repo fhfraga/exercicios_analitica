@@ -25,7 +25,7 @@ Chapter 2:
 Chapter 4:
 - Exercise 4-B: [python file](https://github.com/fhfraga/exercicios_analitica/blob/master/harris/core/Chapter%204/exercise_4.B.py)
 
--Exercise 4-G: [python file](https://github.com/fhfraga/exercicios_analitica/blob/master/harris/core/Chapter%204/exercise_4.G.py)
+- Exercise 4-G: [python file](https://github.com/fhfraga/exercicios_analitica/blob/master/harris/core/Chapter%204/exercise_4.G.py)
 
 # Fundamentals of analytical Chemistry exercise and problems
 
