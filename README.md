@@ -20,8 +20,12 @@ There are some code and comments in portuguese since I am from Brazil.
 
 
 Chapter 2: 
-Problem 2.26:[python file](https://github.com/fhfraga/exercicios_analitica/blob/master/harris/core/problem_2.26.py) [plot](https://github.com/fhfraga/exercicios_analitica/blob/master/harris/core/van_deemter_equation.png)
+- Problem 2.26:[python file](https://github.com/fhfraga/exercicios_analitica/blob/master/harris/core/Chapter%202/problem_2.26.py) [plot](https://github.com/fhfraga/exercicios_analitica/blob/master/harris/core/Chapter%202/van_deemter_equation.png)
 
+Chapter 4:
+- Exercise 4-B: [python file](https://github.com/fhfraga/exercicios_analitica/blob/master/harris/core/Chapter%204/exercise_4.B.py)
+
+-Exercise 4-G: [python file](https://github.com/fhfraga/exercicios_analitica/blob/master/harris/core/Chapter%204/exercise_4.G.py)
 
 # Fundamentals of analytical Chemistry exercise and problems
 
@@ -38,4 +42,4 @@ Chapter 2:
 ## Fundamentals of analytical chemistry exercises and problems
 
 Coming soon...
->>>>>>> 112d70ade26d8a631acc4bd9d2ef663c4dea80e9
+>>>>>>>
