@@ -14,6 +14,6 @@ absorbance_pred = model.predict(protein)
 
 if __name__ == "__main__":
     plt.scatter(protein, absorbance, color = 'black')
-    plt.plot(protein, absorbance_pred,color = 'blue', linewidth = 3.0)
+    plt.plot(protein, absorbance_pred,color = 'blue', linewidth = 3)
     plt.savefig("linear_regression.png")
     plt.show()

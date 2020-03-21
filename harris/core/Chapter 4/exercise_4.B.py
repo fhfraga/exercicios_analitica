@@ -14,7 +14,7 @@ if __name__ == "__main__":
 
     array_mean = x - mean
 
-    array_mean_square = array_mean ** 2
+    array_mean_square = array_mean** 2
 
     standard_deviation = statistics.stdev(x)
 
