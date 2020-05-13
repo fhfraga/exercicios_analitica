@@ -41,5 +41,5 @@ Chapter 2:
 
 ## Fundamentals of analytical chemistry exercises and problems
 
-Coming soon...
+Coming soon....
 >>>>>>>
